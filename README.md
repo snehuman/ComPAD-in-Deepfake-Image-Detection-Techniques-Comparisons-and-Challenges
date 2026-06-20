@@ -8,7 +8,4 @@ With continual advancements in deep learning, the potential misuse of deepfake i
 ### Citation
 Jain, S., Khan, I., Suman, S., Bharti, S., Kumar, A. (2026). ComPAD in Deepfake Image Detection: Techniques, Comparisons, and Challenges. In: Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. SmartCom 2025. Lecture Notes in Networks and Systems, vol 1459. Springer, Singapore. https://doi.org/10.1007/978-981-96-7505-0_21
 
-The final authenticated Version of Record is available online at: [https://doi.org/10.1007/978-981-96-7505-0_21](https://link.springer.com/chapter/10.1007/978-981-96-7505-0_21)
-
 pp 263–272
-
